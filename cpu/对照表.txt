@@ -1,0 +1,8 @@
+1.py    xy_cpu.py   获取闲鱼网页信息得到源数据
+2.py    data_rebuild.py   简单清洗数据,并将其转化为python与excel均可读的情况
+3.py    iqr.py  iqr清洗
+4.py    dbscan.py  dbscan清洗
+5.py    od.py  众数与均值得到当日金额情况
+6.py    bond.py  整合到总体数据中
+7.py    检测简单清洗后数据是否满足情况
+8.py    检测最终数据是否满足情况
